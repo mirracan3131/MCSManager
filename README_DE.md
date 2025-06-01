@@ -17,7 +17,7 @@
 [Offizielle Website](http://mcsmanager.com/) | [Dokumentation](https://docs.mcsmanager.com/) | [Discord](https://discord.gg/BNpYMVX7Cd)
 
 [Englisch](README.md) | [简体中文](README_ZH.md) | [繁體中文](README_TW.md) | [Português BR](README_PTBR.md) |
-[日本語](README_JP.md) | [Spanisch](README_ES.md) | [Thai](README_TH.md) | [Turkish](README_TR.md)
+[日本語](README_JP.md) | [Spanisch](README_ES.md) | [Thai](README_TH.md) | [Türkisch](README_TR.md)
 
 </div>
 
@@ -29,7 +29,7 @@
 
 MCSManager hat bereits eine gewisse Popularität in der Community erlangt, insbesondere durch Minecraft. MCSManager zeichnet sich durch eine zentralisierte Verwaltungslösung für mehrere Serverinstanzen aus und bietet ein sicheres und zuverlässiges Berechtigungssystem für mehrere Benutzer. Darüber hinaus engagieren wir uns für die Unterstützung von Serveradministratoren, nicht nur für Minecraft, sondern auch für Terraria und verschiedene Steam Spiele. Unser Ziel ist es, eine florierende und unterstützende Community für die Verwaltung von Spielservern zu fördern.
 
-MCSManager **unterstützt Englisch, Französisch, Deutsch, Italienisch, Japanisch, Portugiesisch, Chinesisch (Vereinfacht) und Chinesisch (Traditionell)**, mit Plänen mehr Sprachen in der Zukunft zu unterstützen!
+MCSManager **unterstützt Englisch, Französisch, Deutsch, Italienisch, Japanisch, Portugiesisch, Türkisch, Chinesisch (Vereinfacht) und Chinesisch (Traditionell)**, mit Plänen mehr Sprachen in der Zukunft zu unterstützen!
 
 **Terminal**
 
