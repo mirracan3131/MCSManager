@@ -29,7 +29,7 @@
 
 MCSManager has already gained a certain level of popularity within the community, specifically because of Minecraft. MCSManager excels in offering a centralized management solution for multiple server instances and provides a secure and reliable multi-user permission system. In addition, we are committed to support server administrators, not only for Minecraft but also for Terraria and various Steam games. Our goal is to foster a thriving and supportive community for game server management.
 
-MCSManager **supports English, French, German, Italian, Japanese, Portuguese, Simplified Chinese, and Traditional Chinese**, with plans to add support for more languages in the future!
+MCSManager **supports English, French, German, Italian, Japanese, Portuguese, Turkish, Simplified Chinese, and Traditional Chinese**, with plans to add support for more languages in the future!
 
 **Terminal**
 
